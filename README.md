@@ -1,7 +1,6 @@
 <div align = "center">
-<img src="https://picrew.me/shareImg/org/202206/54755_OglJ7zWg.png"  width="250" height="250" /> 
+<img src="https://picrew.me/shareImg/org/202206/54755_OglJ7zWg.png"  width="200" height="200" /> 
 </div>
-
 <div align = "center"> <strong> 👻 Hi, I’m @Danielle-Kensy 👻 </strong> </div> 
 </BR>
   <div align = "center">

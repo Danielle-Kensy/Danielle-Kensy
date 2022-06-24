@@ -1,5 +1,5 @@
 <div align = "center">
-<img src="https://picrew.me/shareImg/org/202206/54755_OglJ7zWg.png"  width="150" height="150" /> 
+<img src="https://picrew.me/shareImg/org/202206/54755_OglJ7zWg.png"  width="250" height="250" /> 
 </div>
 
 <div align = "center"> <strong> 👻 Hi, I’m @Danielle-Kensy 👻 </strong> </div> 
@@ -10,7 +10,6 @@
       
 </div>
 
+<div align = "center"> <strong> 📫 How to reach me: kensydanielle@gmail.com | <a href="https://www.linkedin.com/in/danielle-kensy-22ba91226/" target="_blank"> 🔹 Linkedin </a> </strong> </div> 
 
-<div align = "center"> <strong> 📫 How to reach me: kensydanielle@gmail.com </strong> </div> 
-<div align = "center"> <a href="https://www.linkedin.com/in/danielle-kensy-22ba91226/" target="_blank"> 🔹 Linkedin </a> </div>
 

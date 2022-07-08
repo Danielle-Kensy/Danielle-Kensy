@@ -13,6 +13,6 @@
 
 </BR>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielle-Kensy&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle-Kensy&layout=compact&theme=dracula)](https://github.com/Danielle-Kensy/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielle-Kensy&show_icons=true&theme=dracula) 
 
 

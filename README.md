@@ -12,7 +12,3 @@
 <div align = "center"> <strong> 📫 How to reach me: kensydanielle@gmail.com | <a href="https://www.linkedin.com/in/danielle-kensy-22ba91226/" target="_blank"> 🔹 Linkedin </a> </strong> </div> 
 
 </BR>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielle-Kensy&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle-Kensy&layout=compact&theme=dark)](https://github.com/Danielle-Kensy/github-readme-stats) 
-
-

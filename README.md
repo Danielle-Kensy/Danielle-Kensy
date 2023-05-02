@@ -19,11 +19,11 @@
 
 ###
 
-<h3 align="left">✨  About Me</h3>
+<h3 align="left">✨About Me:✨</h3>
 
 ###
 
-<p align="left">I'm 20 years old and from brazil<br><br>- 🔭 I’m working as junior developer at saude bliss.<br>- 📚 I'm currently learning react typescript.<br>- 🎮 In my free time I like to play some games!</p>
+<p align="left">I'm 20 years old and from brazil💚<br><br>- 🔭 I’m working as junior developer at saude bliss.<br>- 📚 I'm currently learning react typescript.<br>- 🎮 In my free time I like to play some games!</p>
 
 ###
 

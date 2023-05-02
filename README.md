@@ -6,6 +6,7 @@
   <div align = "center">
 
       ✨ Full Stack Web Developer| HTML | CSS | Javascript | React | Node | TypeScript | MySQL ✨
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielle-Kensy&show_icons=true&theme=gruvbox)
       
 </div>
 

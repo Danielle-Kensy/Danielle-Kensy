@@ -5,7 +5,7 @@
 </BR>
   <div align = "center">
 
-      ✨ Full Stack Web Developer| HTML | CSS | Javascript | React | Node | TypeScript | MySQL | AWS ✨
+      ✨ Full Stack Web Developer| HTML | CSS | Javascript | React | Node | TypeScript | MySQL ✨
       
 </div>
 

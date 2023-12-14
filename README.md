@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥 Stats</h3>
-<div align=“center”>
-  <a href=“https://github.com/Danielle-Kensy”>
-  [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielle-Kensy)](https://github.com/Danielle-Kensy/github-readme-stats)
-</div>

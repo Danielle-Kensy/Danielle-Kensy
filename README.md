@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm 22 years old and from brazil💚<br><br>- 🔭 I’m working as junior web developer at saude bliss.<br>- 📚 I'm currently learning python.<br>- 🎮 In my free time I like to play some games!</p>
+<p align="left">I'm 22 years old and from brazil💚<br><br>- 🔭 I’m working as junior web developer at saude bliss.<br>- 📚 I'm currently learning python, django and vue.<br>- 🎮 In my free time I like to play some games!</p>
 
 ###
 

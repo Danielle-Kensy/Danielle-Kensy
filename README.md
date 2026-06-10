@@ -34,11 +34,9 @@ full stack developer • typescript • aws • automation
 |------|-------------|
 | **Frontend** | React, Vue.js, TypeScript |
 | **Backend** | Node.js, Express, Python |
-| **Cloud** | AWS, ECS, Lambda, S3 |
-| **Database** | MySQL |
+| **Data & Cloud** | Mysql, AWS, Docker |
 | Tools | Git, VS Code, Storybook, npm |
 | Automation | Playwright, Puppeteer, n8n |
-
 ---
 
 ### 🎮 fun facts

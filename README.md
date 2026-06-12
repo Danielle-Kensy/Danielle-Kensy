@@ -24,7 +24,9 @@ full stack developer • typescript • aws • automation
 - building web applications and automations that hopefully make someone's life easier
 - currently working with react, node.js, typescript and aws
 - learning python when i'm not fighting javascript
-- i like games, pokémon and making slow queries slightly less slow
+- i enjoy automating tasks more than actually doing them
+- powered by coffee and questionable architectural decisions
+- probably thinking about how to make a process run faster
 
 ---
 
@@ -38,10 +40,3 @@ full stack developer • typescript • aws • automation
 | Tools | Git, VS Code, Storybook, npm |
 | Automation | Playwright, Puppeteer, n8n |
 ---
-
-### 🎮 fun facts
-
-- i enjoy automating tasks more than actually doing them
-- powered by coffee and questionable architectural decisions
-- always learning something new
-- probably thinking about how to make a process run faster

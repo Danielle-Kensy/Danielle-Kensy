@@ -43,6 +43,5 @@ full stack developer • typescript • aws • automation
 
 - i enjoy automating tasks more than actually doing them
 - powered by coffee and questionable architectural decisions
-- trying to keep my side projects alive
 - always learning something new
 - probably thinking about how to make a process run faster

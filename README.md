@@ -39,4 +39,3 @@ full stack developer • typescript • aws • automation
 | **Data & Cloud** | Mysql, AWS, Docker |
 | Tools | Git, VS Code, Storybook, npm |
 | Automation | Playwright, Puppeteer, n8n |
----
